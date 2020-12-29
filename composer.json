@@ -8,6 +8,11 @@
             "email": "alex@finekost.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Alexmilde\\Scaffolder\\": "packages/alexmilde/laravel-database-scaffolder/src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
