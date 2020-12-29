@@ -1,6 +1,14 @@
 {
     "name": "alexmilde/laravel-database-scaffolder",
     "description": "Scaffolding of laravel migrations",
+    "keywords": [
+        "migration",
+        "scaffold",
+        "artisan",
+        "generate",
+        "table",
+        "laravel"
+    ],
     "license": "MIT",
     "authors": [
         {
