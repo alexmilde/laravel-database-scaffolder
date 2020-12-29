@@ -26,6 +26,31 @@ php artisan vendor:publish --tag=scaffolder
 php artisan scaffold:migration opengraphs
 ```
 
+Will generate migration: 
+
+```
+...
+
+public function up()
+{
+    Schema::create('opengraphs', function (Blueprint $table) {
+        $table->id();
+
+        $table->string('title', 255);
+        $table->string('description', 512);
+        $table->string('type', 100);
+        $table->string('url', 255);
+        $table->string('image', 255);
+        $table->string('image-secure_url', 255);
+
+        $table->timestamps();
+    });
+}
+
+...
+
+```
+
 
 ### Out of the box scaffolds
 
