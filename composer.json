@@ -13,6 +13,13 @@
             "Alexmilde\\Scaffolder\\": "packages/alexmilde/laravel-database-scaffolder/src"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alexmilde\\Scaffolder\\ScaffolderServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
