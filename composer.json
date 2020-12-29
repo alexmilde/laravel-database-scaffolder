@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Alexmilde\\Scaffolder\\": "packages/alexmilde/laravel-database-scaffolder/src"
+            "Alexmilde\\Scaffolder\\": "src/"
         }
     },
     "extra": {
