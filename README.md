@@ -29,8 +29,8 @@ php artisan scaffold:migration opengraphs
 
 ### Out of the box scaffolds
 
-- [opengraph basic] (https://github.com/shweshi/OpenGraph) / [config.json] (https://github.com/alexmilde/laravel-database-scaffolder/blob/v0.1/src/Scaffolds/opengraphs.json)
+- [opengraph basic](https://github.com/shweshi/OpenGraph) / [config.json](https://github.com/alexmilde/laravel-database-scaffolder/blob/v0.1/src/Scaffolds/opengraphs.json)
 
 
 
-###I'm more than happy to add your scaffold config request.
+##### I'm more than happy to add your scaffold config request.
