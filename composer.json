@@ -1,0 +1,13 @@
+{
+    "name": "alexmilde/laravel-database-scaffolder",
+    "description": "Scaffolding of laravel migrations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Milde",
+            "email": "alex@finekost.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

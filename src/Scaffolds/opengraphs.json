@@ -1,0 +1,26 @@
+{
+    "title": {
+        "type": "string",
+        "parameters": [255]
+    },
+    "description": {
+        "type": "string",
+        "parameters": [512]
+    },
+    "type": {
+        "type": "string",
+        "parameters": [100]
+    },
+    "url": {
+        "type": "string",
+        "parameters": [255]
+    },
+    "image": {
+        "type": "string",
+        "parameters": [255]
+    },
+    "image-secure_url": {
+        "type": "string",
+        "parameters": [255]
+    }
+}
